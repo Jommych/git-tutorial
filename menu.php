@@ -3,3 +3,5 @@
 <?php echo "Cat"; ?>
 <?php echo "Dog"; ?>
 <?php echo "Electric"; ?>
+<?php echo "Frog"; ?>
+<?php echo "Gigibyte"; ?>
